@@ -2,6 +2,10 @@
     <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
 </h1>
 
+<h2>
+    Link da aplicação: https://italo-dev-radar.netlify.com/
+</h2>
+
 <h4 align="center">
   🚀 Semana OmniStack 10.0
 </h4>
