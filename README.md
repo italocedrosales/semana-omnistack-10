@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-    Link da aplicação: https://italo-dev-radar.netlify.com/
+    Link da aplicação: https://italo-devradar.s3-sa-east-1.amazonaws.com/index.html
 </h2>
 
 <h4 align="center">
