@@ -2,9 +2,13 @@
     <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
 </h1>
 
-<h2>
+<h3>
     Link da aplicação: https://italo-devradar.s3-sa-east-1.amazonaws.com/index.html
-</h2>
+</h3>
+
+<h3>
+    Link do App mobile: https://expo.io/@italocedro/DevRadar
+</h3>
 
 <h4 align="center">
   🚀 Semana OmniStack 10.0
