@@ -3,10 +3,6 @@
 </h1>
 
 <h3>
-    Link da aplicação: https://italo-devradar.s3-sa-east-1.amazonaws.com/index.html
-</h3>
-
-<h3>
     Link do App mobile: https://expo.io/@italocedro/DevRadar
 </h3>
 
